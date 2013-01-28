@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Phonon_Wiring_4K_600mK.aux
+The style file: plain.bst
+Database file #1: conductivity.bib
+I was expecting a `,' or a `}'---line 388 of file conductivity.bib
+ : 
+ : volume = "45",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Flachbart1978
+Warning--empty institution in lem
+Warning--empty title in pob
+Warning--there's a number but no volume in rad73
+Warning--empty title in tou
+(There was 1 error message)
